@@ -17,7 +17,6 @@
   width: 100%;
   height: 460px;
   background-image: url('../assets//bg.webp');
-  background-size: cover;
   background-position: center;
 }
 
@@ -41,7 +40,7 @@
   font-weight: 700;
   color: white;
   margin: 0;
-  margin-top: 10vh;
+  margin-top: 5vw;
 }
 
 .spec{
@@ -49,7 +48,8 @@
   font-weight: 400;
   color: rgb(109, 219, 154);
   margin: 0;
-  margin-top: 15vh;
+  margin-top: 8vh;
+  margin-bottom: 2vw;
 
 }
 </style>
