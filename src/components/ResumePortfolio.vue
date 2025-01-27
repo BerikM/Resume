@@ -53,7 +53,7 @@ const works = [
 <style scoped>
 
 .portfolio{
-  padding: 40px 0px;
+  padding-top: 40px;
   text-align: center;
 }
 

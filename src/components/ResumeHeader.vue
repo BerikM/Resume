@@ -42,6 +42,7 @@ header{
   height: 60px;
   width: 100%;
   position:fixed;
+  z-index: 1;
 }
 .header_container{
   max-width: 1200px;

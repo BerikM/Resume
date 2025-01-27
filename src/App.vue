@@ -7,6 +7,7 @@ import ResumeName from "@/components/ResumeName.vue";
 import ResumeOverview from "@/components/ResumeOverview.vue";
 import ResumePortfolio from "@/components/ResumePortfolio.vue";
 import ResumeSkills from "@/components/ResumeSkills.vue";
+import ResumeContact from "@/components/ResumeContact.vue";
 </script>
 
 <template>
@@ -18,6 +19,7 @@ import ResumeSkills from "@/components/ResumeSkills.vue";
     <ResumeLanguages></ResumeLanguages>
     <ResumeExperience id="experience"></ResumeExperience>
     <ResumePortfolio id="portfolio"></ResumePortfolio>
+    <ResumeContact></ResumeContact>
 </template>
 
 <style scoped>

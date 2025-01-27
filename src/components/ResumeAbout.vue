@@ -3,7 +3,7 @@
 
 <template>
   <section class="about">
-    <div class="container">
+    <div class="mx-auto my-0 flex justify-between max-w-300">
       <article class="about_text size">
         <p class="text_title green">I code, therefore I am.</p>
         <p class="text_text">I am a young enthusiast who is keen on IT and anything about it since my first steps to High School.
@@ -22,14 +22,6 @@
 <style scoped>
 .about{
   padding: 80px 0px;
-}
-
-.container{
-  max-width: 1200px;
-  height: auto;
-  margin: 0px auto;
-  display: flex;
-  justify-content: space-between;
 }
 
 .size{
