@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import ResumeAbout from "@/components/ResumeAbout.vue";
+import ResumeExperience from "@/components/ResumeExperience.vue";
 import ResumeHeader from "@/components/ResumeHeader.vue";
+import ResumeLanguages from "@/components/ResumeLanguages.vue";
 import ResumeName from "@/components/ResumeName.vue";
 import ResumeOverview from "@/components/ResumeOverview.vue";
-import ResumeSkills from "@/components/ResumeSkills.vue";
-import ResumeLanguages from "@/components/ResumeLanguages.vue";
-import ResumeExperience from "@/components/ResumeExperience.vue";
 import ResumePortfolio from "@/components/ResumePortfolio.vue";
+import ResumeSkills from "@/components/ResumeSkills.vue";
 </script>
 
 <template>
